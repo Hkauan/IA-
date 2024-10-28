@@ -18,4 +18,5 @@ IA Harry é um assistente de voz desenvolvido para responder a comandos de voz e
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/usuario/ia-harry.git
+   git clone https://github.com/Hkauan/ia-harry.git
+**Este README fornece as informações essenciais para qualquer pessoa interessada em instalar, usar ou contribuir para o projeto.**
